@@ -58,10 +58,3 @@ Handles core game logic:
 Manages the word selection based on difficulty:
 - Randomly picks a word from a dictionary for each level.
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/noemikulcsar/hangman-game.git
